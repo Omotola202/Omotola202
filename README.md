@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakiru Habibat Omotola
 - 👀 I’m interested in anything data science/data analytics
-- 🌱 I’m currently learning data analytics using SQL
+- 🌱 I’m currently working on data analytics projects 
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me sakiruhabibat@gmail.com
 
